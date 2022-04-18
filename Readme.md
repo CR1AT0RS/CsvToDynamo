@@ -5,6 +5,7 @@ import sys
 import csv
 import boto3
 
+```
 Python3 is recommended:
 import sys
 import csv
@@ -35,3 +36,5 @@ def write_to_dynamo(rows):
             )
 
 main()
+
+```
